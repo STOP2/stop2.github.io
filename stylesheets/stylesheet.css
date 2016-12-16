@@ -506,6 +506,12 @@ header h2 {
   background-color: #f092cd;
 }
 
+#aknowledgements {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: #007ac9;
+}
+
 #download {
   padding-top: 50px;
   padding-bottom: 50px;
